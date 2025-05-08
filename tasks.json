@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Watering the plants",
+    "description": "watering the plants at the time of evening",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "workout",
+    "description": "At evening 7 pm",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Buy groceries",
+    "description": "At afternoon 3 pm",
+    "completed": false
+  }
+]
